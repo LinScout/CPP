@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPP_Crow.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_Crow.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPP_CrowEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPP_Crow">
+      <UniqueIdentifier>{7B16CA3B-42B2-3CFA-8EA1-89B5806D340E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_Crow\CPP_Crow.Build.cs">
+      <Filter>Source\CPP_Crow</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPP_Crow\CPP_Crow.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\CPP_Crow.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\CPP_CrowCharacter.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\CPP_CrowCharacter.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\CPP_CrowGameMode.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\CPP_CrowGameMode.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\CPP_CrowPlayerController.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\CPP_CrowPlayerController.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\CPP_CrowProjectile.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\CPP_CrowProjectile.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\Crow.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\Crow.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\TP_PickUpComponent.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\TP_PickUpComponent.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPP_Crow\TP_WeaponComponent.cpp">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_Crow\TP_WeaponComponent.h">
+      <Filter>Source\CPP_Crow</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

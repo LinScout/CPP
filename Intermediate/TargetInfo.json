@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_Crow",
+			"Path": "..\\Source\\CPP_Crow.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_CrowEditor",
+			"Path": "..\\Source\\CPP_CrowEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
